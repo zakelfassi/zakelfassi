@@ -4,6 +4,8 @@
 
 Founder of [Talk & Comment](https://talkandcomment.com) (voice for the internet, est. 2013). Ex-Meta messaging product partnerships. I run agent fleets in production and publish what survives contact with it — the tools, the methods, and the field notes.
 
+Current through-line: an agentic software factory stack — reusable skills, build loops, research surfaces, and control planes for turning judgment into shipped work.
+
 [zakelfassi.com](https://zakelfassi.com) · [Field Notes](https://zakelfassi.com/field-notes) · [Newsletter](https://zakelfassi.com/newsletter) · [X @zakelfassi](https://x.com/zakelfassi)
 
 ---
