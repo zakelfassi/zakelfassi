@@ -11,6 +11,7 @@ Founder of [Talk & Comment](https://talkandcomment.com) (voice for the internet,
 ## Agent tooling
 
 - **[htmlify](https://github.com/zakelfassi/htmlify)** — Turn agent answers into self-contained HTML artifacts. Zero dependencies, zero build, one file.
+- **[greenroom](https://github.com/zakelfassi/greenroom)** — Prompt-to-scene-prep control plane for OBS. Describe what you're about to record; it preps everything else — and ships an agent protocol (`AGENT.md`).
 - **[repo-prompt-cockpit](https://github.com/zakelfassi/repo-prompt-cockpit)** — Read-only desktop control plane for Repo Prompt sessions, sub-agent trees, and diagnostics.
 - **[hfpaper](https://github.com/zakelfassi/hfpaper)** — CLI for the Hugging Face Papers API. Search and read AI research from the terminal.
 - **[neonrender](https://github.com/zakelfassi/neonrender)** — Neon-style gradients and glow in your terminal.
@@ -42,11 +43,11 @@ Founder of [Talk & Comment](https://talkandcomment.com) (voice for the internet,
 ## Recently shipped
 
 <!-- SHIPPING:START -->
-- [htmlify](https://github.com/zakelfassi/htmlify) — Turn agent answers into self-contained HTML artifacts — operator briefs, plans, review packets, incident timelines, and presentation decks. Zero dependencies, zero build, one file. *(updated 2026-06-11)*
+- [greenroom](https://github.com/zakelfassi/greenroom) — Prompt-to-scene-prep control plane for OBS streamers. Describe what you're about to record; Greenroom preps everything else. *(updated 2026-06-12)*
+- [htmlify](https://github.com/zakelfassi/htmlify) — Turn agent answers into self-contained HTML artifacts — operator briefs, plans, review packets, incident timelines, and presentation decks. Zero dependencies, zero build, one file. *(updated 2026-06-12)*
 - [repo-prompt-cockpit](https://github.com/zakelfassi/repo-prompt-cockpit) — Repo Prompt Cockpit is a read-only desktop companion for Repo Prompt. High-signal control plane for live sessions, cross-workspace activity, sub-agent trees, workspace/context metadata, diagnostics, and a minimal always-on-top monitoring mode. *(updated 2026-05-01)*
 - [skills-driven-development](https://github.com/zakelfassi/skills-driven-development) — Agents that learn by doing — and remember how they did it. A methodology for AI agents to create, evolve, and share reusable skills. *(updated 2026-04-19)*
 - [say-hi](https://github.com/zakelfassi/say-hi) — Five screen scenes for photo-ready laptops. Fire one up before you take the photo. *(updated 2026-04-15)*
-- [Forgeloop-kit](https://github.com/zakelfassi/Forgeloop-kit) — a portable implementation + augmentation of the workflow described in The Ralph Wiggum Playbook, combined with a Skills-Driven Development closed-loop workflow. *(updated 2026-03-27)*
 <!-- SHIPPING:END -->
 
 ---
