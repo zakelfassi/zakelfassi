@@ -12,6 +12,7 @@ Current through-line: an agentic software factory stack — reusable skills, bui
 
 ## Agent tooling
 
+- **[flightrec](https://github.com/zakelfassi/flightrec)** — Git-like filesystem observability for AI agents. Snapshots the filesystem, diffs every change, and writes the record your agents won't. Rust daemon + TUI; `cargo install flightrec`.
 - **[htmlify](https://github.com/zakelfassi/htmlify)** — Turn agent answers into self-contained HTML artifacts. Zero dependencies, zero build, one file.
 - **[greenroom](https://github.com/zakelfassi/greenroom)** — Prompt-to-scene-prep control plane for OBS. Describe what you're about to record; it preps everything else — and ships an agent protocol (`AGENT.md`).
 - **[repo-prompt-cockpit](https://github.com/zakelfassi/repo-prompt-cockpit)** — Read-only desktop control plane for Repo Prompt sessions, sub-agent trees, and diagnostics.
@@ -23,7 +24,7 @@ Current through-line: an agentic software factory stack — reusable skills, bui
 - **[skills-driven-development](https://github.com/zakelfassi/skills-driven-development)** — Agents that learn by doing, and remember how they did it. Create, evolve, and share reusable skills.
 - **[Forgeloop-kit](https://github.com/zakelfassi/Forgeloop-kit)** — Ralph Wiggum-style agentic build loops, closed with Skills-Driven Development.
 
-*In the lab, graduating soon: git-like filesystem observability for agents, and rubrics that talk back.*
+*In the lab, graduating soon: rubrics that talk back.*
 
 ## Writing
 
