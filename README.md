@@ -46,11 +46,11 @@ Current through-line: an agentic software factory stack — reusable skills, bui
 ## Recently shipped
 
 <!-- SHIPPING:START -->
+- [flightrec](https://github.com/zakelfassi/flightrec) — Git-like filesystem observability for AI agents — snapshots, diffs, and narratives of what actually happened. Rust. *(updated 2026-06-16)*
+- [homebrew-tap](https://github.com/zakelfassi/homebrew-tap) — Homebrew formulae for my CLI tools (hfpaper & friends) *(updated 2026-06-15)*
 - [skills-driven-development](https://github.com/zakelfassi/skills-driven-development) — Agents that learn by doing — and remember how they did it. A methodology for AI agents to create, evolve, and share reusable skills. *(updated 2026-06-15)*
 - [htmlify](https://github.com/zakelfassi/htmlify) — Turn agent answers into self-contained HTML artifacts — operator briefs, plans, review packets, incident timelines, and presentation decks. Zero dependencies, zero build, one file. *(updated 2026-06-12)*
 - [greenroom](https://github.com/zakelfassi/greenroom) — Prompt-to-scene-prep control plane for OBS streamers. Describe what you're about to record; Greenroom preps everything else. *(updated 2026-06-12)*
-- [repo-prompt-cockpit](https://github.com/zakelfassi/repo-prompt-cockpit) — Repo Prompt Cockpit is a read-only desktop companion for Repo Prompt. High-signal control plane for live sessions, cross-workspace activity, sub-agent trees, workspace/context metadata, diagnostics, and a minimal always-on-top monitoring mode. *(updated 2026-05-01)*
-- [say-hi](https://github.com/zakelfassi/say-hi) — Five screen scenes for photo-ready laptops. Fire one up before you take the photo. *(updated 2026-04-15)*
 <!-- SHIPPING:END -->
 
 ---
